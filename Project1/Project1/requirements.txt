@@ -1,0 +1,4 @@
+Flask
+numpy
+pandas
+scikit-learn==1.5.0  # Ensure to specify the version here if necessary
